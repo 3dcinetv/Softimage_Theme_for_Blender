@@ -26,6 +26,15 @@ Blender is also available to download in Steam, which is a fast and auto-conveni
 
 😼
 
+---
+<a href="https://3dcinetv.com/xsimod-theme-for-blender-2-83-updated-march-2020/" target="_blank"><img src="https://static-2.gumroad.com/res/gumroad-public-storage/variants/wi3y31hrhk8kt6iirktqbe7v2qkm/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb" 
+alt="XSIMOD theme for Blender 2.83" width="240" height="134" border="10" /></a> 
+
+
+https://static-2.gumroad.com/res/gumroad-public-storage/variants/phppvg0idag7mjknk2a662x73xfj/baaca0eb0e33dc4f9d45910b8c86623f0144cea0fe0c2093c546d17d535752eb
+
+
+
 ## INSTALATION
 
 For Blender 2.8x series:
