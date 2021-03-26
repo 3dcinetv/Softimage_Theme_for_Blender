@@ -26,6 +26,22 @@ Blender is also available to download in Steam, which is a fast and auto-conveni
 
 😼
 
+## INSTALATION
+
+For Blender 2.8x series:
+1. Download your version theme from this repo
+2. Unzip and locate the .xml file
+3. Open Blender and go to Edit> User Preferences> Themes> Install theme> (navigate and target your .xml file)
+4. Your user interface will change colors
+5. There are files named Startup.blend (current scene) and userpref.blend (custom settings)
+6. In Blender go to file> Open> target Startup.blend (your GUI will change) and then go to File > Defaults > Save startup file
+7. Close Blender
+The next time you open Blender your colors nd your UI layout should appear themed.
+
+For Blender 2.79 there is an "Application Template" folder from the versions in this repo and a readme file.
+Open the readme.txt file and follow the instructions.
+In Blender 2.79 there are a lot of parameters to change in the User Preferences, but I have not included them
+
 ## Changelog:
 SOFTIMAGE Theme v01. - Blender 2.9x series
   - "XSIMOD theme" name changes to "Softimage Theme" for Blender.
