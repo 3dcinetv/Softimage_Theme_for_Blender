@@ -49,7 +49,6 @@ SOFTIMAGE Theme v01. - Blender 2.9x series
   - New previously non-existent workspaces in Softimage (Grease Pencil, Geometry nodes, Asset Browser, Spread Sheet) will be adjusted
     according to the previous GUI design rules from 2.8x
 
-
 XSIMOD Theme v0.1 - Blender 2.8x series
   - Blender Official Themes from Edit> User Preferences> Themes now include "XSI" theme based from the XSIMOD theme.
   - Complete Outliner, Image Editor, NLA, Graph editor, File explorer, Shader editor, UV editor, 3D Viewport color scheme.
@@ -61,3 +60,7 @@ XSIMOD Theme v0.1 - Blender 2.79
   - Application template works from FILE> Application Templates> Install application template from file
   - Splash screen similar to Softimage XSI (2007)
   - Addons and preferences for keyboard mapping included
+
+## AUTHOR
+<a href="https://github.com/3dcinetv" target="_blank">Pierre Schiller</a><br>
+
