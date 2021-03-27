@@ -46,7 +46,18 @@ alt="XSIMOD theme for Blender 2.83" width="240" height="134" border="10" /></a>
 
 
 
-## INSTALATION
+## INSTALLATION
+For LOCAL, SYSTEM and USER paths relative to Blender in LINUX, MAC and PC, please refer <a href="https://docs.blender.org/manual/en/latest/advanced/blender_directory_layout.html" target="_blank">to this guide.</a><br>
+
+For Blender 2.9x series:
+1. Download your version theme file from this repo
+2. Unzip and locate Softimage_292.xml
+3. Open Blender. Go to Edit> User Preferences> Themes> Install theme> Select Softimage_292.xml from your unzipped folder location
+4. Blender's UI will change color
+5. In Blender go to FILE> Open, select "startup.blend". This will open an empty file with all the tab presets ready
+6. File> Defaults> Save Startup file
+7. Quit and Restart Blender. You should see your theme.
+8. If you want to further personalize Blender's shortcuts, take a look at the Addons Folder into the Setup addons.txt file.
 
 For Blender 2.8x series:
 1. Download your version theme from this repo
