@@ -7,6 +7,8 @@ This is an .xml theme that you can install in Blender >Edit Menu> User Preferenc
 I started to develop an XSI Softimage theme after Softimage EOL, to familiarize 3D Artists coming from that context into Blender's GUI.
 "XSIMOD theme" was the original name for this theme. It has been updated to be permanently called "**Softimage theme for Blender**" with their respective number release and version. <br>
 Blender is also available to download in Steam, which is a fast and auto-convenient way to stay updated with the latest software upgrades. Generally, your Blender addons from a previous version in Steam will need to be re-installed in the new version if they are compatible.
+Blender includes different <a href="https://developer.blender.org/T74360" target="_blank"> THEMES </a> to help users relate UI color schemes in their workflows
+
 
 ---
 
